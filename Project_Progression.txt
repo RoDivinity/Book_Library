@@ -12,6 +12,7 @@
 
   **** Features needed to add ****
 + User Interface (Needed a lot of versions)
++ Track progression by storing what date start, what date finish
 + Save/Load library with book location (if it's stored on computer, save the path. if it's paperback, idk, 
                                   remind me where it's last seen or where I read!)
 + File Chooser
