@@ -1,0 +1,28 @@
+  **** Up to June 2016 ****
+  
++ Used hashmap for books 
++ The basic data is book data 
+        @book's title
+        @book's author
+        @book's genre
+        @ # of pages
+        @ # of chapters
+        @ * ratings (Not yet added in)
+        @book's summary (Optional)
+
+  **** Features needed to add ****
++ User Interface (Needed a lot of versions)
++ Save/Load library with book location (if it's stored on computer, save the path. if it's paperback, idk, 
+                                  remind me where it's last seen or where I read!)
++ File Chooser
++ Auto count pages/chapters from input
++ ID generator for books (must maintain uniqueness)
+
+  **** Advanced features ****
+
+/* Not sure if I can do, will ask around for help */
++Add real database file
++Open stand alone reader (.txt, .pdf, .epub)
+  *Allow reader to comment, highlight, bookmarks
+  *Save changes to book in seperate copy
+  
