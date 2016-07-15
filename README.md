@@ -1,5 +1,5 @@
 # Book_Library
-Small Program to keep track my read
+Small Program to keep track my reading
 @Version 1.0.0:
  *      +Book title, author name and book genre added
  *      +Book progression (number of pages/chapter)
